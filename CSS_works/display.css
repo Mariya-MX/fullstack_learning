@@ -1,0 +1,33 @@
+.row{
+    border: solid black 1px;
+    background-color: blanchedalmond;
+    width: 600px;
+    height: 300px;
+    display: flex;
+    justify-content: flex-start;
+    /* space-evently */
+    /* space-between */
+    /* flex-start and flex-end */
+
+    align-items: center;
+    justify-content: space-around;
+
+
+}
+.col{
+    height: 100px;
+    width: 100px;
+    border: solid black 1px;
+}
+.col1{
+    background-color: blueviolet;
+}
+.col2{
+    background-color: chocolate;
+}
+.col3{
+    background-color: cornflowerblue;
+}
+.col4{
+    background-color: darkgreen;
+}

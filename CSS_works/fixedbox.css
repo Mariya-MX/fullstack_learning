@@ -1,0 +1,18 @@
+div{
+    border: solid black 1px;
+    background-color: hotpink;
+    width: 100px;
+    height: 100px;
+    position: fixed;
+    left: 300px;
+    top: 300px;
+    
+}
+body{
+    /* background-color: khaki; */
+    background-image: url(./index3.jpeg);
+    background-size: cover;
+    height: 2000px;
+
+
+}

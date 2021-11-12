@@ -1,0 +1,19 @@
+#a{
+    border: solid black 1px;
+    width: 20%;
+    float: left;
+}
+div img{
+    width: 100%;
+    
+}
+
+
+
+div p{
+    padding: 10px;
+}
+div div{
+    text-align: center;
+    /* padding-left: 107px; */
+}

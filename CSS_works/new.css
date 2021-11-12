@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Festive&family=Fjalla+One&display=swap');
+h1{
+    color: lightgreen;
+    text-decoration: underline;
+    text-align: center;
+    font-family: 'Festive', cursive;
+}
+/* tag selector */
+/* id selector  #  */
+/* class selector . */
+
+#head1{
+    color: lightseagreen;
+}
+#head2{
+    color: maroon;
+}
+.head3{
+    color: mediumblue;
+}
+.head4{
+    color: mediumorchid;
+}
+p{
+    font-size: 20px;
+    font-family: 'Fjalla One', sans-serif;
+}
